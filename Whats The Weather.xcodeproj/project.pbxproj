@@ -13,6 +13,7 @@
 		180ECF3D1B77A019008AF3B2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF3C1B77A019008AF3B2 /* Images.xcassets */; };
 		180ECF401B77A019008AF3B2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF3E1B77A019008AF3B2 /* LaunchScreen.xib */; };
 		180ECF4C1B77A019008AF3B2 /* Whats_The_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180ECF4B1B77A019008AF3B2 /* Whats_The_WeatherTests.swift */; };
+		180ECF581B77A0C1008AF3B2 /* skyline.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 180ECF571B77A0C1008AF3B2 /* skyline.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		180ECF451B77A019008AF3B2 /* Whats The WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Whats The WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		180ECF4A1B77A019008AF3B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		180ECF4B1B77A019008AF3B2 /* Whats_The_WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Whats_The_WeatherTests.swift; sourceTree = "<group>"; };
+		180ECF571B77A0C1008AF3B2 /* skyline.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = skyline.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				180ECF351B77A019008AF3B2 /* AppDelegate.swift */,
 				180ECF371B77A019008AF3B2 /* ViewController.swift */,
 				180ECF391B77A019008AF3B2 /* Main.storyboard */,
+				180ECF571B77A0C1008AF3B2 /* skyline.jpg */,
 				180ECF3C1B77A019008AF3B2 /* Images.xcassets */,
 				180ECF3E1B77A019008AF3B2 /* LaunchScreen.xib */,
 				180ECF331B77A019008AF3B2 /* Supporting Files */,
@@ -195,6 +198,7 @@
 				180ECF3B1B77A019008AF3B2 /* Main.storyboard in Resources */,
 				180ECF401B77A019008AF3B2 /* LaunchScreen.xib in Resources */,
 				180ECF3D1B77A019008AF3B2 /* Images.xcassets in Resources */,
+				180ECF581B77A0C1008AF3B2 /* skyline.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
